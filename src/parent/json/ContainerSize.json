@@ -1,0 +1,162 @@
+[
+  {
+    "value": 1,
+    "label": "Cont. 20 ft. General"
+  },
+  {
+    "value": 2,
+    "label": "Cont. 40 ft. General"
+  },
+  {
+    "value": 3,
+    "label": "Cont. 40 ft. High Cube"
+  },
+  {
+    "value": 4,
+    "label": "Cont. 45 ft. High Cube"
+  },
+  {
+    "value": 5,
+    "label": "Cont. 20 ft. Reefer"
+  },
+  {
+    "value": 6,
+    "label": "Cont. 40 ft. Reefer"
+  },
+  {
+    "value": 7,
+    "label": "Cont. 45 ft. Reefer HC"
+  },
+  {
+    "value": 8,
+    "label": "Cont. 20 ft. Standard Dry"
+  },
+  {
+    "value": 9,
+    "label": "Cont. 40 ft. Standard Dry"
+  },
+  {
+    "value": 10,
+    "label": "Cont. 20 ft. Ventilated"
+  },
+  {
+    "value": 11,
+    "label": "Cont. 40 ft. Ventilated"
+  },
+  {
+    "value": 12,
+    "label": "Cont. 20 ft. Car Carrier"
+  },
+  {
+    "value": 13,
+    "label": "Cont. 40 ft. Car Carrier"
+  },
+  {
+    "value": 14,
+    "label": "Cont. 20 ft. Half Open"
+  },
+  {
+    "value": 15,
+    "label": "Cont. 20 ft. Open Top"
+  },
+  {
+    "value": 16,
+    "label": "Cont. 40 ft. Open Top"
+  },
+  {
+    "value": 17,
+    "label": "Cont. 20 ft. Tank"
+  },
+  {
+    "value": 18,
+    "label": "Cont. 40 ft. Tank"
+  },
+  {
+    "value": 19,
+    "label": "Cont. 20 ft. Flat"
+  },
+  {
+    "value": 20,
+    "label": "Cont. 40 ft. Flat"
+  },
+  {
+    "value": 21,
+    "label": "Air Cont. Demi AYY"
+  },
+  {
+    "value": 22,
+    "label": "Air Cont. LD-1/AKA"
+  },
+  {
+    "value": 23,
+    "label": "Air Cont. LD-2/DPE"
+  },
+  {
+    "value": 24,
+    "label": "Air Cont. LD-3/AKE"
+  },
+  {
+    "value": 25,
+    "label": "Air Cont. LD-3/RKN Reefer"
+  },
+  {
+    "value": 26,
+    "label": "Air Cont. LD-4/ALP Rect"
+  },
+  {
+    "value": 27,
+    "label": "Air Cont. LD-6/ALF"
+  },
+  {
+    "value": 28,
+    "label": "Air Cont. LD-8/DQF"
+  },
+  {
+    "value": 29,
+    "label": "Air Cont. LD-9/AAP"
+  },
+  {
+    "value": 30,
+    "label": "Air Cont. LD-9/RAP Reefer"
+  },
+  {
+    "value": 31,
+    "label": "Air Cont. LD-11/ALP Rect"
+  },
+  {
+    "value": 32,
+    "label": "Air Cont. LD-26/AAF"
+  },
+  {
+    "value": 33,
+    "label": "Air Cont. LD-29/AAU"
+  },
+  {
+    "value": 34,
+    "label": "Air Cont. M-6/AGA 20 ft."
+  },
+  {
+    "value": 35,
+    "label": "Air Pallet 16 ft. MDP/PRA"
+  },
+  {
+    "value": 36,
+    "label": "Air Pallet 20 ft. M-6/PGA"
+  },
+  {
+    "value": 37,
+    "label": "Air Pallet 88'' LD-7/P1P"
+  },
+  {
+    "value": 38,
+    "label": "Air Pallet 96'' LD-9/P6P"
+  },
+  {
+    "value": 39,
+    "label": "Air Pallet Half HP/PLA"
+  },
+  {
+    "value": 40,
+    "label": "Air Pallet HMA Horse"
+  }
+]

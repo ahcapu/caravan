@@ -1,0 +1,27 @@
+[
+  {
+    "acc_code": 101,
+    "acc_type": "Equity",
+    "acc_nature": "Cr"
+  },
+  {
+    "acc_code": 201,
+    "acc_type": "Liability",
+    "acc_nature": "Cr"
+  },
+  {
+    "acc_code": 301,
+    "acc_type": "Income",
+    "acc_nature": "Cr"
+  },
+  {
+    "acc_code": 401,
+    "acc_type": "Asset",
+    "acc_nature": "Dr"
+  },
+  {
+    "acc_code": 501,
+    "acc_type": "Expense",
+    "acc_nature": "Dr"
+  }
+]

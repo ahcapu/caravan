@@ -1,0 +1,226 @@
+[
+  {
+    "value": 1,
+    "label": "Pick"
+  },
+  {
+    "value": 2,
+    "label": "In-Transit"
+  },
+  {
+    "value": 3,
+    "label": "Stop"
+  },
+  {
+    "value": 4,
+    "label": "Delivered"
+  },
+  {
+    "value": 5,
+    "label": "Start "
+  },
+  {
+    "value": 6,
+    "label": "Start: home"
+  },
+  {
+    "value": 7,
+    "label": "Start: preparing"
+  },
+  {
+    "value": 8,
+    "label": "Start: job switched"
+  },
+  {
+    "value": 9,
+    "label": "Start: job pending"
+  },
+  {
+    "value": 10,
+    "label": "Start: job cancelled"
+  },
+  {
+    "value": 11,
+    "label": "Departed"
+  },
+  {
+    "value": 12,
+    "label": "Departed: from terminal"
+  },
+  {
+    "value": 13,
+    "label": "Departed: from airport"
+  },
+  {
+    "value": 14,
+    "label": "Departed: from seaport"
+  },
+  {
+    "value": 15,
+    "label": "Departed: from warehouse"
+  },
+  {
+    "value": 16,
+    "label": "Departed: from loading location"
+  },
+  {
+    "value": 17,
+    "label": "Departed: from unloading location"
+  },
+  {
+    "value": 18,
+    "label": "Arrived"
+  },
+  {
+    "value": 19,
+    "label": "Arrived: at terminal"
+  },
+  {
+    "value": 20,
+    "label": "Arrived: at airport"
+  },
+  {
+    "value": 21,
+    "label": "Arrived: at seaport"
+  },
+  {
+    "value": 22,
+    "label": "Arrived: at warehouse"
+  },
+  {
+    "value": 23,
+    "label": "Arrived: at loading location"
+  },
+  {
+    "value": 24,
+    "label": "Arrived: at unloading location"
+  },
+  {
+    "value": 25,
+    "label": "Loading"
+  },
+  {
+    "value": 26,
+    "label": "Loading: start"
+  },
+  {
+    "value": 27,
+    "label": "Loading: end"
+  },
+  {
+    "value": 28,
+    "label": "Loading: waiting"
+  },
+  {
+    "value": 29,
+    "label": "Loading: break"
+  },
+  {
+    "value": 30,
+    "label": "Loading: resume"
+  },
+  {
+    "value": 31,
+    "label": "Unloading"
+  },
+  {
+    "value": 32,
+    "label": "Unloading: start"
+  },
+  {
+    "value": 33,
+    "label": "Unloading: end"
+  },
+  {
+    "value": 34,
+    "label": "Unloading: waiting"
+  },
+  {
+    "value": 35,
+    "label": "Unloading: break"
+  },
+  {
+    "value": 36,
+    "label": "Unloading: resume"
+  },
+  {
+    "value": 37,
+    "label": "In-transit: on the way"
+  },
+  {
+    "value": 38,
+    "label": "In-transit: moving slow"
+  },
+  {
+    "value": 39,
+    "label": "In-transit: moving fast"
+  },
+  {
+    "value": 40,
+    "label": "In-transit: stoppage start"
+  },
+  {
+    "value": 41,
+    "label": "In-transit: stoppage ends"
+  },
+  {
+    "value": 42,
+    "label": "In-transit: bad-weather stoppage "
+  },
+  {
+    "value": 43,
+    "label": "In-transit: road-block stoppage"
+  },
+  {
+    "value": 44,
+    "label": "In-transit: accidental stoppage"
+  },
+  {
+    "value": 45,
+    "label": "In-transit: repair stoppage"
+  },
+  {
+    "value": 46,
+    "label": "In-transit: refuel stoppage"
+  },
+  {
+    "value": 47,
+    "label": "In-transit: waiting for clearance"
+  },
+  {
+    "value": 48,
+    "label": "End"
+  },
+  {
+    "value": 49,
+    "label": "End: delivered successfully"
+  },
+  {
+    "value": 50,
+    "label": "End: delivered other location"
+  },
+  {
+    "value": 51,
+    "label": "End: job switched"
+  },
+  {
+    "value": 52,
+    "label": "End: job pending"
+  },
+  {
+    "value": 53,
+    "label": "End: job cancelled"
+  },
+  {
+    "value": 54,
+    "label": "Not Available"
+  },
+  {
+    "value": 55,
+    "label": "Expected Start"
+  },
+  {
+    "value": 56,
+    "label": "Expected End"
+  }
+]

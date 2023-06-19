@@ -1,0 +1,1954 @@
+[
+  {
+    "value": 1004,
+    "currency_id": 201,
+    "capital_tz_id": 134,
+    "iso2": "AF",
+    "iso3": "AFG",
+    "label": "Afghanistan"
+  },
+  {
+    "value": 1248,
+    "currency_id": 249,
+    "capital_tz_id": 129,
+    "iso2": "AX",
+    "iso3": "ALA",
+    "label": "Aland Islands"
+  },
+  {
+    "value": 1008,
+    "currency_id": 202,
+    "capital_tz_id": 127,
+    "iso2": "AL",
+    "iso3": "ALB",
+    "label": "Albania"
+  },
+  {
+    "value": 1012,
+    "currency_id": 203,
+    "capital_tz_id": 127,
+    "iso2": "DZ",
+    "iso3": "DZA",
+    "label": "Algeria"
+  },
+  {
+    "value": 1016,
+    "currency_id": 345,
+    "capital_tz_id": 103,
+    "iso2": "AS",
+    "iso3": "ASM",
+    "label": "American Samoa"
+  },
+  {
+    "value": 1020,
+    "currency_id": 249,
+    "capital_tz_id": 127,
+    "iso2": "AD",
+    "iso3": "AND",
+    "label": "Andorra"
+  },
+  {
+    "value": 1024,
+    "currency_id": 204,
+    "capital_tz_id": 127,
+    "iso2": "AO",
+    "iso3": "AGO",
+    "label": "Angola"
+  },
+  {
+    "value": 1660,
+    "currency_id": 245,
+    "capital_tz_id": 117,
+    "iso2": "AI",
+    "iso3": "AIA",
+    "label": "Anguilla"
+  },
+  {
+    "value": 1028,
+    "currency_id": 245,
+    "capital_tz_id": 117,
+    "iso2": "AG",
+    "iso3": "ATG",
+    "label": "Antigua and Barbuda"
+  },
+  {
+    "value": 1032,
+    "currency_id": 206,
+    "capital_tz_id": 119,
+    "iso2": "AR",
+    "iso3": "ARG",
+    "label": "Argentina"
+  },
+  {
+    "value": 1051,
+    "currency_id": 207,
+    "capital_tz_id": 133,
+    "iso2": "AM",
+    "iso3": "ARM",
+    "label": "Armenia"
+  },
+  {
+    "value": 1533,
+    "currency_id": 208,
+    "capital_tz_id": 117,
+    "iso2": "AW",
+    "iso3": "ABW",
+    "label": "Aruba"
+  },
+  {
+    "value": 1036,
+    "currency_id": 209,
+    "capital_tz_id": 148,
+    "iso2": "AU",
+    "iso3": "AUS",
+    "label": "Australia"
+  },
+  {
+    "value": 1040,
+    "currency_id": 249,
+    "capital_tz_id": 127,
+    "iso2": "AT",
+    "iso3": "AUT",
+    "label": "Austria"
+  },
+  {
+    "value": 1031,
+    "currency_id": 210,
+    "capital_tz_id": 133,
+    "iso2": "AZ",
+    "iso3": "AZE",
+    "label": "Azerbaijan"
+  },
+  {
+    "value": 1044,
+    "currency_id": 212,
+    "capital_tz_id": 115,
+    "iso2": "BS",
+    "iso3": "BHS",
+    "label": "Bahamas"
+  },
+  {
+    "value": 1048,
+    "currency_id": 213,
+    "capital_tz_id": 131,
+    "iso2": "BH",
+    "iso3": "BHR",
+    "label": "Bahrain"
+  },
+  {
+    "value": 1050,
+    "currency_id": 214,
+    "capital_tz_id": 138,
+    "iso2": "BD",
+    "iso3": "BGD",
+    "label": "Bangladesh"
+  },
+  {
+    "value": 1052,
+    "currency_id": 215,
+    "capital_tz_id": 117,
+    "iso2": "BB",
+    "iso3": "BRB",
+    "label": "Barbados"
+  },
+  {
+    "value": 1112,
+    "currency_id": 297,
+    "capital_tz_id": 131,
+    "iso2": "BY",
+    "iso3": "BLR",
+    "label": "Belarus"
+  },
+  {
+    "value": 1056,
+    "currency_id": 249,
+    "capital_tz_id": 127,
+    "iso2": "BE",
+    "iso3": "BEL",
+    "label": "Belgium"
+  },
+  {
+    "value": 1084,
+    "currency_id": 216,
+    "capital_tz_id": 113,
+    "iso2": "BZ",
+    "iso3": "BLZ",
+    "label": "Belize"
+  },
+  {
+    "value": 1204,
+    "currency_id": 351,
+    "capital_tz_id": 127,
+    "iso2": "BJ",
+    "iso3": "BEN",
+    "label": "Benin"
+  },
+  {
+    "value": 1060,
+    "currency_id": 217,
+    "capital_tz_id": 117,
+    "iso2": "BM",
+    "iso3": "BMU",
+    "label": "Bermuda"
+  },
+  {
+    "value": 1535,
+    "currency_id": 345,
+    "capital_tz_id": 117,
+    "iso2": "BQ",
+    "iso3": "BES",
+    "label": "BES Islands (Caribbean)"
+  },
+  {
+    "value": 1064,
+    "currency_id": 218,
+    "capital_tz_id": 138,
+    "iso2": "BT",
+    "iso3": "BTN",
+    "label": "Bhutan"
+  },
+  {
+    "value": 1068,
+    "currency_id": 219,
+    "capital_tz_id": 117,
+    "iso2": "BO",
+    "iso3": "BOL",
+    "label": "Bolivia"
+  },
+  {
+    "value": 1070,
+    "currency_id": 211,
+    "capital_tz_id": 127,
+    "iso2": "BA",
+    "iso3": "BIH",
+    "label": "Bosnia and Herzegovina"
+  },
+  {
+    "value": 1072,
+    "currency_id": 220,
+    "capital_tz_id": 129,
+    "iso2": "BW",
+    "iso3": "BWA",
+    "label": "Botswana"
+  },
+  {
+    "value": 1076,
+    "currency_id": 221,
+    "capital_tz_id": 119,
+    "iso2": "BR",
+    "iso3": "BRA",
+    "label": "Brazil"
+  },
+  {
+    "value": 1096,
+    "currency_id": 223,
+    "capital_tz_id": 142,
+    "iso2": "BN",
+    "iso3": "BRN",
+    "label": "Brunei"
+  },
+  {
+    "value": 1100,
+    "currency_id": 224,
+    "capital_tz_id": 129,
+    "iso2": "BG",
+    "iso3": "BGR",
+    "label": "Bulgaria"
+  },
+  {
+    "value": 1854,
+    "currency_id": 351,
+    "capital_tz_id": 125,
+    "iso2": "BF",
+    "iso3": "BFA",
+    "label": "Burkina Faso"
+  },
+  {
+    "value": 1108,
+    "currency_id": 226,
+    "capital_tz_id": 129,
+    "iso2": "BI",
+    "iso3": "BDI",
+    "label": "Burundi"
+  },
+  {
+    "value": 1132,
+    "currency_id": 229,
+    "capital_tz_id": 123,
+    "iso2": "CV",
+    "iso3": "CPV",
+    "label": "Cabo Verde"
+  },
+  {
+    "value": 1116,
+    "currency_id": 227,
+    "capital_tz_id": 140,
+    "iso2": "KH",
+    "iso3": "KHM",
+    "label": "Cambodia"
+  },
+  {
+    "value": 1120,
+    "currency_id": 231,
+    "capital_tz_id": 127,
+    "iso2": "CM",
+    "iso3": "CMR",
+    "label": "Cameroon"
+  },
+  {
+    "value": 1124,
+    "currency_id": 228,
+    "capital_tz_id": 115,
+    "iso2": "CA",
+    "iso3": "CAN",
+    "label": "Canada"
+  },
+  {
+    "value": 1136,
+    "currency_id": 230,
+    "capital_tz_id": 115,
+    "iso2": "KY",
+    "iso3": "CYM",
+    "label": "Cayman Islands"
+  },
+  {
+    "value": 1140,
+    "currency_id": 231,
+    "capital_tz_id": 127,
+    "iso2": "CF",
+    "iso3": "CAF",
+    "label": "Central African Republic"
+  },
+  {
+    "value": 1148,
+    "currency_id": 231,
+    "capital_tz_id": 127,
+    "iso2": "TD",
+    "iso3": "TCD",
+    "label": "Chad"
+  },
+  {
+    "value": 1152,
+    "currency_id": 233,
+    "capital_tz_id": 119,
+    "iso2": "CL",
+    "iso3": "CHL",
+    "label": "Chile"
+  },
+  {
+    "value": 1156,
+    "currency_id": 234,
+    "capital_tz_id": 142,
+    "iso2": "CN",
+    "iso3": "CHN",
+    "label": "China"
+  },
+  {
+    "value": 1162,
+    "currency_id": 209,
+    "capital_tz_id": 140,
+    "iso2": "CX",
+    "iso3": "CXR",
+    "label": "Christmas Island"
+  },
+  {
+    "value": 1166,
+    "currency_id": 209,
+    "capital_tz_id": 139,
+    "iso2": "CC",
+    "iso3": "CCK",
+    "label": "Cocos Islands"
+  },
+  {
+    "value": 1170,
+    "currency_id": 235,
+    "capital_tz_id": 115,
+    "iso2": "CO",
+    "iso3": "COL",
+    "label": "Colombia"
+  },
+  {
+    "value": 1174,
+    "currency_id": 236,
+    "capital_tz_id": 131,
+    "iso2": "KM",
+    "iso3": "COM",
+    "label": "Comoros"
+  },
+  {
+    "value": 1184,
+    "currency_id": 299,
+    "capital_tz_id": 105,
+    "iso2": "CK",
+    "iso3": "COK",
+    "label": "Cook Islands"
+  },
+  {
+    "value": 1188,
+    "currency_id": 238,
+    "capital_tz_id": 113,
+    "iso2": "CR",
+    "iso3": "CRI",
+    "label": "Costa Rica"
+  },
+  {
+    "value": 1191,
+    "currency_id": 239,
+    "capital_tz_id": 127,
+    "iso2": "HR",
+    "iso3": "HRV",
+    "label": "Croatia"
+  },
+  {
+    "value": 1192,
+    "currency_id": 240,
+    "capital_tz_id": 115,
+    "iso2": "CU",
+    "iso3": "CUB",
+    "label": "Cuba"
+  },
+  {
+    "value": 1531,
+    "currency_id": 257,
+    "capital_tz_id": 117,
+    "iso2": "CW",
+    "iso3": "CUW",
+    "label": "Curacao"
+  },
+  {
+    "value": 1196,
+    "currency_id": 249,
+    "capital_tz_id": 129,
+    "iso2": "CY",
+    "iso3": "CYP",
+    "label": "Cyprus"
+  },
+  {
+    "value": 1203,
+    "currency_id": 241,
+    "capital_tz_id": 127,
+    "iso2": "CZ",
+    "iso3": "CZE",
+    "label": "Czechia"
+  },
+  {
+    "value": 1180,
+    "currency_id": 237,
+    "capital_tz_id": 129,
+    "iso2": "CD",
+    "iso3": "COD",
+    "label": "Democratic Republic of Congo"
+  },
+  {
+    "value": 1208,
+    "currency_id": 242,
+    "capital_tz_id": 127,
+    "iso2": "DK",
+    "iso3": "DNK",
+    "label": "Denmark"
+  },
+  {
+    "value": 1262,
+    "currency_id": 243,
+    "capital_tz_id": 131,
+    "iso2": "DJ",
+    "iso3": "DJI",
+    "label": "Djibouti"
+  },
+  {
+    "value": 1212,
+    "currency_id": 245,
+    "capital_tz_id": 117,
+    "iso2": "DM",
+    "iso3": "DMA",
+    "label": "Dominica"
+  },
+  {
+    "value": 1214,
+    "currency_id": 244,
+    "capital_tz_id": 117,
+    "iso2": "DO",
+    "iso3": "DOM",
+    "label": "Dominican Republic"
+  },
+  {
+    "value": 1218,
+    "currency_id": 345,
+    "capital_tz_id": 115,
+    "iso2": "EC",
+    "iso3": "ECU",
+    "label": "Ecuador"
+  },
+  {
+    "value": 1818,
+    "currency_id": 246,
+    "capital_tz_id": 129,
+    "iso2": "EG",
+    "iso3": "EGY",
+    "label": "Egypt"
+  },
+  {
+    "value": 1222,
+    "currency_id": 345,
+    "capital_tz_id": 113,
+    "iso2": "SV",
+    "iso3": "SLV",
+    "label": "El Salvador"
+  },
+  {
+    "value": 1226,
+    "currency_id": 231,
+    "capital_tz_id": 127,
+    "iso2": "GQ",
+    "iso3": "GNQ",
+    "label": "Equatorial Guinea"
+  },
+  {
+    "value": 1232,
+    "currency_id": 247,
+    "capital_tz_id": 131,
+    "iso2": "ER",
+    "iso3": "ERI",
+    "label": "Eritrea"
+  },
+  {
+    "value": 1233,
+    "currency_id": 249,
+    "capital_tz_id": 129,
+    "iso2": "EE",
+    "iso3": "EST",
+    "label": "Estonia"
+  },
+  {
+    "value": 1748,
+    "currency_id": 331,
+    "capital_tz_id": 129,
+    "iso2": "SZ",
+    "iso3": "SWZ",
+    "label": "Eswatini (Swaziland)"
+  },
+  {
+    "value": 1231,
+    "currency_id": 248,
+    "capital_tz_id": 131,
+    "iso2": "ET",
+    "iso3": "ETH",
+    "label": "Ethiopia"
+  },
+  {
+    "value": 1238,
+    "currency_id": 250,
+    "capital_tz_id": 119,
+    "iso2": "FK",
+    "iso3": "FLK",
+    "label": "Falkland Islands"
+  },
+  {
+    "value": 1234,
+    "currency_id": 242,
+    "capital_tz_id": 125,
+    "iso2": "FO",
+    "iso3": "FRO",
+    "label": "Faroe Islands"
+  },
+  {
+    "value": 1242,
+    "currency_id": 251,
+    "capital_tz_id": 152,
+    "iso2": "FJ",
+    "iso3": "FJI",
+    "label": "Fiji"
+  },
+  {
+    "value": 1246,
+    "currency_id": 249,
+    "capital_tz_id": 129,
+    "iso2": "FI",
+    "iso3": "FIN",
+    "label": "Finland"
+  },
+  {
+    "value": 1250,
+    "currency_id": 249,
+    "capital_tz_id": 127,
+    "iso2": "FR",
+    "iso3": "FRA",
+    "label": "France"
+  },
+  {
+    "value": 1254,
+    "currency_id": 249,
+    "capital_tz_id": 119,
+    "iso2": "GF",
+    "iso3": "GUF",
+    "label": "French Guiana"
+  },
+  {
+    "value": 1258,
+    "currency_id": 232,
+    "capital_tz_id": 105,
+    "iso2": "PF",
+    "iso3": "PYF",
+    "label": "French Polynesia"
+  },
+  {
+    "value": 1260,
+    "currency_id": 249,
+    "capital_tz_id": 135,
+    "iso2": "TF",
+    "iso3": "ATF",
+    "label": "French Southern Territories"
+  },
+  {
+    "value": 1266,
+    "currency_id": 231,
+    "capital_tz_id": 127,
+    "iso2": "GA",
+    "iso3": "GAB",
+    "label": "Gabon"
+  },
+  {
+    "value": 1270,
+    "currency_id": 252,
+    "capital_tz_id": 125,
+    "iso2": "GM",
+    "iso3": "GMB",
+    "label": "Gambia"
+  },
+  {
+    "value": 1268,
+    "currency_id": 253,
+    "capital_tz_id": 133,
+    "iso2": "GE",
+    "iso3": "GEO",
+    "label": "Georgia"
+  },
+  {
+    "value": 1276,
+    "currency_id": 249,
+    "capital_tz_id": 127,
+    "iso2": "DE",
+    "iso3": "DEU",
+    "label": "Germany"
+  },
+  {
+    "value": 1288,
+    "currency_id": 254,
+    "capital_tz_id": 125,
+    "iso2": "GH",
+    "iso3": "GHA",
+    "label": "Ghana"
+  },
+  {
+    "value": 1292,
+    "currency_id": 255,
+    "capital_tz_id": 127,
+    "iso2": "GI",
+    "iso3": "GIB",
+    "label": "Gibraltar"
+  },
+  {
+    "value": 1300,
+    "currency_id": 249,
+    "capital_tz_id": 129,
+    "iso2": "GR",
+    "iso3": "GRC",
+    "label": "Greece"
+  },
+  {
+    "value": 1304,
+    "currency_id": 242,
+    "capital_tz_id": 121,
+    "iso2": "GL",
+    "iso3": "GRL",
+    "label": "Greenland"
+  },
+  {
+    "value": 1308,
+    "currency_id": 245,
+    "capital_tz_id": 117,
+    "iso2": "GD",
+    "iso3": "GRD",
+    "label": "Grenada"
+  },
+  {
+    "value": 1312,
+    "currency_id": 249,
+    "capital_tz_id": 117,
+    "iso2": "GP",
+    "iso3": "GLP",
+    "label": "Guadeloupe"
+  },
+  {
+    "value": 1316,
+    "currency_id": 345,
+    "capital_tz_id": 148,
+    "iso2": "GU",
+    "iso3": "GUM",
+    "label": "Guam"
+  },
+  {
+    "value": 1320,
+    "currency_id": 256,
+    "capital_tz_id": 113,
+    "iso2": "GT",
+    "iso3": "GTM",
+    "label": "Guatemala"
+  },
+  {
+    "value": 1831,
+    "currency_id": 222,
+    "capital_tz_id": 125,
+    "iso2": "GG",
+    "iso3": "GGY",
+    "label": "Guernsey"
+  },
+  {
+    "value": 1324,
+    "currency_id": 258,
+    "capital_tz_id": 125,
+    "iso2": "GN",
+    "iso3": "GIN",
+    "label": "Guinea"
+  },
+  {
+    "value": 1624,
+    "currency_id": 351,
+    "capital_tz_id": 125,
+    "iso2": "GW",
+    "iso3": "GNB",
+    "label": "Guinea-Bissau"
+  },
+  {
+    "value": 1328,
+    "currency_id": 259,
+    "capital_tz_id": 117,
+    "iso2": "GY",
+    "iso3": "GUY",
+    "label": "Guyana"
+  },
+  {
+    "value": 1332,
+    "currency_id": 260,
+    "capital_tz_id": 115,
+    "iso2": "HT",
+    "iso3": "HTI",
+    "label": "Haiti"
+  },
+  {
+    "value": 1340,
+    "currency_id": 261,
+    "capital_tz_id": 113,
+    "iso2": "HN",
+    "iso3": "HND",
+    "label": "Honduras"
+  },
+  {
+    "value": 1344,
+    "currency_id": 262,
+    "capital_tz_id": 142,
+    "iso2": "HK",
+    "iso3": "HKG",
+    "label": "Hong Kong"
+  },
+  {
+    "value": 1348,
+    "currency_id": 263,
+    "capital_tz_id": 127,
+    "iso2": "HU",
+    "iso3": "HUN",
+    "label": "Hungary"
+  },
+  {
+    "value": 1352,
+    "currency_id": 264,
+    "capital_tz_id": 125,
+    "iso2": "IS",
+    "iso3": "ISL",
+    "label": "Iceland"
+  },
+  {
+    "value": 1356,
+    "currency_id": 265,
+    "capital_tz_id": 136,
+    "iso2": "IN",
+    "iso3": "IND",
+    "label": "India"
+  },
+  {
+    "value": 1360,
+    "currency_id": 266,
+    "capital_tz_id": 140,
+    "iso2": "ID",
+    "iso3": "IDN",
+    "label": "Indonesia"
+  },
+  {
+    "value": 1364,
+    "currency_id": 267,
+    "capital_tz_id": 132,
+    "iso2": "IR",
+    "iso3": "IRN",
+    "label": "Iran"
+  },
+  {
+    "value": 1368,
+    "currency_id": 268,
+    "capital_tz_id": 132,
+    "iso2": "IQ",
+    "iso3": "IRQ",
+    "label": "Iraq"
+  },
+  {
+    "value": 1372,
+    "currency_id": 249,
+    "capital_tz_id": 125,
+    "iso2": "IE",
+    "iso3": "IRL",
+    "label": "Ireland"
+  },
+  {
+    "value": 1833,
+    "currency_id": 222,
+    "capital_tz_id": 125,
+    "iso2": "IM",
+    "iso3": "IMN",
+    "label": "Isle of Man"
+  },
+  {
+    "value": 1376,
+    "currency_id": 269,
+    "capital_tz_id": 129,
+    "iso2": "IL",
+    "iso3": "ISR",
+    "label": "Israel"
+  },
+  {
+    "value": 1380,
+    "currency_id": 249,
+    "capital_tz_id": 127,
+    "iso2": "IT",
+    "iso3": "ITA",
+    "label": "Italy"
+  },
+  {
+    "value": 1384,
+    "currency_id": 351,
+    "capital_tz_id": 125,
+    "iso2": "CI",
+    "iso3": "CIV",
+    "label": "Ivory Coast"
+  },
+  {
+    "value": 1388,
+    "currency_id": 270,
+    "capital_tz_id": 115,
+    "iso2": "JM",
+    "iso3": "JAM",
+    "label": "Jamaica"
+  },
+  {
+    "value": 1392,
+    "currency_id": 271,
+    "capital_tz_id": 145,
+    "iso2": "JP",
+    "iso3": "JPN",
+    "label": "Japan"
+  },
+  {
+    "value": 1832,
+    "currency_id": 222,
+    "capital_tz_id": 125,
+    "iso2": "JE",
+    "iso3": "JEY",
+    "label": "Jersey"
+  },
+  {
+    "value": 1400,
+    "currency_id": 272,
+    "capital_tz_id": 129,
+    "iso2": "JO",
+    "iso3": "JOR",
+    "label": "Jordan"
+  },
+  {
+    "value": 1398,
+    "currency_id": 273,
+    "capital_tz_id": 135,
+    "iso2": "KZ",
+    "iso3": "KAZ",
+    "label": "Kazakhstan"
+  },
+  {
+    "value": 1404,
+    "currency_id": 274,
+    "capital_tz_id": 131,
+    "iso2": "KE",
+    "iso3": "KEN",
+    "label": "Kenya"
+  },
+  {
+    "value": 1296,
+    "currency_id": 209,
+    "capital_tz_id": 152,
+    "iso2": "KI",
+    "iso3": "KIR",
+    "label": "Kiribati"
+  },
+  {
+    "value": 1926,
+    "currency_id": 249,
+    "capital_tz_id": 127,
+    "iso2": "XK",
+    "iso3": "XKX",
+    "label": "Kosovo"
+  },
+  {
+    "value": 1414,
+    "currency_id": 275,
+    "capital_tz_id": 131,
+    "iso2": "KW",
+    "iso3": "KWT",
+    "label": "Kuwait"
+  },
+  {
+    "value": 1417,
+    "currency_id": 276,
+    "capital_tz_id": 138,
+    "iso2": "KG",
+    "iso3": "KGZ",
+    "label": "Kyrgyzstan"
+  },
+  {
+    "value": 1418,
+    "currency_id": 277,
+    "capital_tz_id": 140,
+    "iso2": "LA",
+    "iso3": "LAO",
+    "label": "Laos"
+  },
+  {
+    "value": 1428,
+    "currency_id": 249,
+    "capital_tz_id": 129,
+    "iso2": "LV",
+    "iso3": "LVA",
+    "label": "Latvia"
+  },
+  {
+    "value": 1422,
+    "currency_id": 278,
+    "capital_tz_id": 129,
+    "iso2": "LB",
+    "iso3": "LBN",
+    "label": "Lebanon"
+  },
+  {
+    "value": 1426,
+    "currency_id": 279,
+    "capital_tz_id": 129,
+    "iso2": "LS",
+    "iso3": "LSO",
+    "label": "Lesotho"
+  },
+  {
+    "value": 1430,
+    "currency_id": 280,
+    "capital_tz_id": 125,
+    "iso2": "LR",
+    "iso3": "LBR",
+    "label": "Liberia"
+  },
+  {
+    "value": 1434,
+    "currency_id": 281,
+    "capital_tz_id": 129,
+    "iso2": "LY",
+    "iso3": "LBY",
+    "label": "Libya"
+  },
+  {
+    "value": 1438,
+    "currency_id": 333,
+    "capital_tz_id": 127,
+    "iso2": "LI",
+    "iso3": "LIE",
+    "label": "Liechtenstein"
+  },
+  {
+    "value": 1440,
+    "currency_id": 249,
+    "capital_tz_id": 129,
+    "iso2": "LT",
+    "iso3": "LTU",
+    "label": "Lithuania"
+  },
+  {
+    "value": 1442,
+    "currency_id": 249,
+    "capital_tz_id": 127,
+    "iso2": "LU",
+    "iso3": "LUX",
+    "label": "Luxembourg"
+  },
+  {
+    "value": 1446,
+    "currency_id": 282,
+    "capital_tz_id": 142,
+    "iso2": "MO",
+    "iso3": "MAC",
+    "label": "Macao"
+  },
+  {
+    "value": 1450,
+    "currency_id": 284,
+    "capital_tz_id": 131,
+    "iso2": "MG",
+    "iso3": "MDG",
+    "label": "Madagascar"
+  },
+  {
+    "value": 1454,
+    "currency_id": 285,
+    "capital_tz_id": 129,
+    "iso2": "MW",
+    "iso3": "MWI",
+    "label": "Malawi"
+  },
+  {
+    "value": 1458,
+    "currency_id": 286,
+    "capital_tz_id": 142,
+    "iso2": "MY",
+    "iso3": "MYS",
+    "label": "Malaysia"
+  },
+  {
+    "value": 1462,
+    "currency_id": 287,
+    "capital_tz_id": 135,
+    "iso2": "MV",
+    "iso3": "MDV",
+    "label": "Maldives"
+  },
+  {
+    "value": 1466,
+    "currency_id": 351,
+    "capital_tz_id": 125,
+    "iso2": "ML",
+    "iso3": "MLI",
+    "label": "Mali"
+  },
+  {
+    "value": 1470,
+    "currency_id": 249,
+    "capital_tz_id": 127,
+    "iso2": "MT",
+    "iso3": "MLT",
+    "label": "Malta"
+  },
+  {
+    "value": 1584,
+    "currency_id": 345,
+    "capital_tz_id": 152,
+    "iso2": "MH",
+    "iso3": "MHL",
+    "label": "Marshall Islands"
+  },
+  {
+    "value": 1474,
+    "currency_id": 249,
+    "capital_tz_id": 117,
+    "iso2": "MQ",
+    "iso3": "MTQ",
+    "label": "Martinique"
+  },
+  {
+    "value": 1478,
+    "currency_id": 288,
+    "capital_tz_id": 125,
+    "iso2": "MR",
+    "iso3": "MRT",
+    "label": "Mauritania"
+  },
+  {
+    "value": 1480,
+    "currency_id": 289,
+    "capital_tz_id": 133,
+    "iso2": "MU",
+    "iso3": "MUS",
+    "label": "Mauritius"
+  },
+  {
+    "value": 1175,
+    "currency_id": 249,
+    "capital_tz_id": 131,
+    "iso2": "YT",
+    "iso3": "MYT",
+    "label": "Mayotte"
+  },
+  {
+    "value": 1484,
+    "currency_id": 290,
+    "capital_tz_id": 113,
+    "iso2": "MX",
+    "iso3": "MEX",
+    "label": "Mexico"
+  },
+  {
+    "value": 1583,
+    "currency_id": 345,
+    "capital_tz_id": 150,
+    "iso2": "FM",
+    "iso3": "FSM",
+    "label": "Micronesia"
+  },
+  {
+    "value": 1498,
+    "currency_id": 291,
+    "capital_tz_id": 129,
+    "iso2": "MD",
+    "iso3": "MDA",
+    "label": "Moldova"
+  },
+  {
+    "value": 1492,
+    "currency_id": 249,
+    "capital_tz_id": 127,
+    "iso2": "MC",
+    "iso3": "MCO",
+    "label": "Monaco"
+  },
+  {
+    "value": 1496,
+    "currency_id": 292,
+    "capital_tz_id": 142,
+    "iso2": "MN",
+    "iso3": "MNG",
+    "label": "Mongolia"
+  },
+  {
+    "value": 1499,
+    "currency_id": 249,
+    "capital_tz_id": 127,
+    "iso2": "ME",
+    "iso3": "MNE",
+    "label": "Montenegro"
+  },
+  {
+    "value": 1500,
+    "currency_id": 245,
+    "capital_tz_id": 117,
+    "iso2": "MS",
+    "iso3": "MSR",
+    "label": "Montserrat"
+  },
+  {
+    "value": 1504,
+    "currency_id": 293,
+    "capital_tz_id": 127,
+    "iso2": "MA",
+    "iso3": "MAR",
+    "label": "Morocco"
+  },
+  {
+    "value": 1508,
+    "currency_id": 294,
+    "capital_tz_id": 129,
+    "iso2": "MZ",
+    "iso3": "MOZ",
+    "label": "Mozambique"
+  },
+  {
+    "value": 1104,
+    "currency_id": 225,
+    "capital_tz_id": 139,
+    "iso2": "MM",
+    "iso3": "MMR",
+    "label": "Myanmar"
+  },
+  {
+    "value": 1516,
+    "currency_id": 295,
+    "capital_tz_id": 129,
+    "iso2": "NA",
+    "iso3": "NAM",
+    "label": "Namibia"
+  },
+  {
+    "value": 1520,
+    "currency_id": 209,
+    "capital_tz_id": 152,
+    "iso2": "NR",
+    "iso3": "NRU",
+    "label": "Nauru"
+  },
+  {
+    "value": 1524,
+    "currency_id": 296,
+    "capital_tz_id": 137,
+    "iso2": "NP",
+    "iso3": "NPL",
+    "label": "Nepal"
+  },
+  {
+    "value": 1528,
+    "currency_id": 249,
+    "capital_tz_id": 127,
+    "iso2": "NL",
+    "iso3": "NLD",
+    "label": "Netherlands"
+  },
+  {
+    "value": 1530,
+    "currency_id": 257,
+    "capital_tz_id": 117,
+    "iso2": "AN",
+    "iso3": "ANT",
+    "label": "Netherlands Antilles"
+  },
+  {
+    "value": 1540,
+    "currency_id": 232,
+    "capital_tz_id": 150,
+    "iso2": "NC",
+    "iso3": "NCL",
+    "label": "New Caledonia"
+  },
+  {
+    "value": 1554,
+    "currency_id": 299,
+    "capital_tz_id": 152,
+    "iso2": "NZ",
+    "iso3": "NZL",
+    "label": "New Zealand"
+  },
+  {
+    "value": 1558,
+    "currency_id": 300,
+    "capital_tz_id": 113,
+    "iso2": "NI",
+    "iso3": "NIC",
+    "label": "Nicaragua"
+  },
+  {
+    "value": 1562,
+    "currency_id": 351,
+    "capital_tz_id": 127,
+    "iso2": "NE",
+    "iso3": "NER",
+    "label": "Niger"
+  },
+  {
+    "value": 1566,
+    "currency_id": 301,
+    "capital_tz_id": 127,
+    "iso2": "NG",
+    "iso3": "NGA",
+    "label": "Nigeria"
+  },
+  {
+    "value": 1570,
+    "currency_id": 299,
+    "capital_tz_id": 103,
+    "iso2": "NU",
+    "iso3": "NIU",
+    "label": "Niue"
+  },
+  {
+    "value": 1574,
+    "currency_id": 209,
+    "capital_tz_id": 150,
+    "iso2": "NF",
+    "iso3": "NFK",
+    "label": "Norfolk Island"
+  },
+  {
+    "value": 1408,
+    "currency_id": 302,
+    "capital_tz_id": 145,
+    "iso2": "KP",
+    "iso3": "PRK",
+    "label": "North Korea"
+  },
+  {
+    "value": 1807,
+    "currency_id": 283,
+    "capital_tz_id": 127,
+    "iso2": "MK",
+    "iso3": "MKD",
+    "label": "North Macedonia"
+  },
+  {
+    "value": 1580,
+    "currency_id": 345,
+    "capital_tz_id": 148,
+    "iso2": "MP",
+    "iso3": "MNP",
+    "label": "Northern Mariana Islands"
+  },
+  {
+    "value": 1578,
+    "currency_id": 303,
+    "capital_tz_id": 127,
+    "iso2": "NO",
+    "iso3": "NOR",
+    "label": "Norway"
+  },
+  {
+    "value": 1512,
+    "currency_id": 304,
+    "capital_tz_id": 133,
+    "iso2": "OM",
+    "iso3": "OMN",
+    "label": "Oman"
+  },
+  {
+    "value": 1586,
+    "currency_id": 305,
+    "capital_tz_id": 135,
+    "iso2": "PK",
+    "iso3": "PAK",
+    "label": "Pakistan"
+  },
+  {
+    "value": 1585,
+    "currency_id": 345,
+    "capital_tz_id": 145,
+    "iso2": "PW",
+    "iso3": "PLW",
+    "label": "Palau"
+  },
+  {
+    "value": 1275,
+    "currency_id": 269,
+    "capital_tz_id": 129,
+    "iso2": "PS",
+    "iso3": "PSE",
+    "label": "Palestinian Territory"
+  },
+  {
+    "value": 1591,
+    "currency_id": 345,
+    "capital_tz_id": 115,
+    "iso2": "PA",
+    "iso3": "PAN",
+    "label": "Panama"
+  },
+  {
+    "value": 1598,
+    "currency_id": 306,
+    "capital_tz_id": 148,
+    "iso2": "PG",
+    "iso3": "PNG",
+    "label": "Papua New Guinea"
+  },
+  {
+    "value": 1600,
+    "currency_id": 307,
+    "capital_tz_id": 117,
+    "iso2": "PY",
+    "iso3": "PRY",
+    "label": "Paraguay"
+  },
+  {
+    "value": 1604,
+    "currency_id": 308,
+    "capital_tz_id": 115,
+    "iso2": "PE",
+    "iso3": "PER",
+    "label": "Peru"
+  },
+  {
+    "value": 1608,
+    "currency_id": 309,
+    "capital_tz_id": 142,
+    "iso2": "PH",
+    "iso3": "PHL",
+    "label": "Philippines"
+  },
+  {
+    "value": 1616,
+    "currency_id": 310,
+    "capital_tz_id": 127,
+    "iso2": "PL",
+    "iso3": "POL",
+    "label": "Poland"
+  },
+  {
+    "value": 1620,
+    "currency_id": 249,
+    "capital_tz_id": 125,
+    "iso2": "PT",
+    "iso3": "PRT",
+    "label": "Portugal"
+  },
+  {
+    "value": 1630,
+    "currency_id": 345,
+    "capital_tz_id": 117,
+    "iso2": "PR",
+    "iso3": "PRI",
+    "label": "Puerto Rico"
+  },
+  {
+    "value": 1634,
+    "currency_id": 311,
+    "capital_tz_id": 131,
+    "iso2": "QA",
+    "iso3": "QAT",
+    "label": "Qatar"
+  },
+  {
+    "value": 1178,
+    "currency_id": 231,
+    "capital_tz_id": 127,
+    "iso2": "CG",
+    "iso3": "COG",
+    "label": "Republic of Congo"
+  },
+  {
+    "value": 1638,
+    "currency_id": 249,
+    "capital_tz_id": 133,
+    "iso2": "RE",
+    "iso3": "REU",
+    "label": "Reunion"
+  },
+  {
+    "value": 1642,
+    "currency_id": 312,
+    "capital_tz_id": 129,
+    "iso2": "RO",
+    "iso3": "ROU",
+    "label": "Romania"
+  },
+  {
+    "value": 1643,
+    "currency_id": 313,
+    "capital_tz_id": 131,
+    "iso2": "RU",
+    "iso3": "RUS",
+    "label": "Russia"
+  },
+  {
+    "value": 1646,
+    "currency_id": 314,
+    "capital_tz_id": 129,
+    "iso2": "RW",
+    "iso3": "RWA",
+    "label": "Rwanda"
+  },
+  {
+    "value": 1652,
+    "currency_id": 249,
+    "capital_tz_id": 117,
+    "iso2": "BL",
+    "iso3": "BLM",
+    "label": "Saint Barthelemy"
+  },
+  {
+    "value": 1654,
+    "currency_id": 315,
+    "capital_tz_id": 125,
+    "iso2": "SH",
+    "iso3": "SHN",
+    "label": "Saint Helena"
+  },
+  {
+    "value": 1659,
+    "currency_id": 245,
+    "capital_tz_id": 117,
+    "iso2": "KN",
+    "iso3": "KNA",
+    "label": "Saint Kitts and Nevis"
+  },
+  {
+    "value": 1662,
+    "currency_id": 245,
+    "capital_tz_id": 117,
+    "iso2": "LC",
+    "iso3": "LCA",
+    "label": "Saint Lucia"
+  },
+  {
+    "value": 1663,
+    "currency_id": 249,
+    "capital_tz_id": 117,
+    "iso2": "MF",
+    "iso3": "MAF",
+    "label": "Saint Martin"
+  },
+  {
+    "value": 1666,
+    "currency_id": 249,
+    "capital_tz_id": 119,
+    "iso2": "PM",
+    "iso3": "SPM",
+    "label": "Saint Pierre and Miquelon"
+  },
+  {
+    "value": 1670,
+    "currency_id": 245,
+    "capital_tz_id": 117,
+    "iso2": "VC",
+    "iso3": "VCT",
+    "label": "Saint Vincent and Grenadines"
+  },
+  {
+    "value": 1882,
+    "currency_id": 316,
+    "capital_tz_id": 155,
+    "iso2": "WS",
+    "iso3": "WSM",
+    "label": "Samoa"
+  },
+  {
+    "value": 1674,
+    "currency_id": 249,
+    "capital_tz_id": 127,
+    "iso2": "SM",
+    "iso3": "SMR",
+    "label": "San Marino"
+  },
+  {
+    "value": 1678,
+    "currency_id": 317,
+    "capital_tz_id": 125,
+    "iso2": "ST",
+    "iso3": "STP",
+    "label": "Sao Tome and Principe"
+  },
+  {
+    "value": 1682,
+    "currency_id": 318,
+    "capital_tz_id": 131,
+    "iso2": "SA",
+    "iso3": "SAU",
+    "label": "Saudi Arabia"
+  },
+  {
+    "value": 1686,
+    "currency_id": 351,
+    "capital_tz_id": 125,
+    "iso2": "SN",
+    "iso3": "SEN",
+    "label": "Senegal"
+  },
+  {
+    "value": 1688,
+    "currency_id": 319,
+    "capital_tz_id": 127,
+    "iso2": "RS",
+    "iso3": "SRB",
+    "label": "Serbia"
+  },
+  {
+    "value": 1690,
+    "currency_id": 320,
+    "capital_tz_id": 133,
+    "iso2": "SC",
+    "iso3": "SYC",
+    "label": "Seychelles"
+  },
+  {
+    "value": 1694,
+    "currency_id": 321,
+    "capital_tz_id": 125,
+    "iso2": "SL",
+    "iso3": "SLE",
+    "label": "Sierra Leone"
+  },
+  {
+    "value": 1702,
+    "currency_id": 322,
+    "capital_tz_id": 142,
+    "iso2": "SG",
+    "iso3": "SGP",
+    "label": "Singapore"
+  },
+  {
+    "value": 1534,
+    "currency_id": 257,
+    "capital_tz_id": 117,
+    "iso2": "SX",
+    "iso3": "SXM",
+    "label": "Sint Maarten"
+  },
+  {
+    "value": 1703,
+    "currency_id": 249,
+    "capital_tz_id": 127,
+    "iso2": "SK",
+    "iso3": "SVK",
+    "label": "Slovakia"
+  },
+  {
+    "value": 1705,
+    "currency_id": 249,
+    "capital_tz_id": 127,
+    "iso2": "SI",
+    "iso3": "SVN",
+    "label": "Slovenia"
+  },
+  {
+    "value": 1090,
+    "currency_id": 323,
+    "capital_tz_id": 150,
+    "iso2": "SB",
+    "iso3": "SLB",
+    "label": "Solomon Islands"
+  },
+  {
+    "value": 1706,
+    "currency_id": 324,
+    "capital_tz_id": 131,
+    "iso2": "SO",
+    "iso3": "SOM",
+    "label": "Somalia"
+  },
+  {
+    "value": 1710,
+    "currency_id": 325,
+    "capital_tz_id": 129,
+    "iso2": "ZA",
+    "iso3": "ZAF",
+    "label": "South Africa"
+  },
+  {
+    "value": 1410,
+    "currency_id": 326,
+    "capital_tz_id": 145,
+    "iso2": "KR",
+    "iso3": "KOR",
+    "label": "South Korea"
+  },
+  {
+    "value": 1728,
+    "currency_id": 327,
+    "capital_tz_id": 129,
+    "iso2": "SS",
+    "iso3": "SSD",
+    "label": "South Sudan"
+  },
+  {
+    "value": 1724,
+    "currency_id": 249,
+    "capital_tz_id": 127,
+    "iso2": "ES",
+    "iso3": "ESP",
+    "label": "Spain"
+  },
+  {
+    "value": 1144,
+    "currency_id": 328,
+    "capital_tz_id": 136,
+    "iso2": "LK",
+    "iso3": "LKA",
+    "label": "Sri Lanka"
+  },
+  {
+    "value": 1729,
+    "currency_id": 329,
+    "capital_tz_id": 129,
+    "iso2": "SD",
+    "iso3": "SDN",
+    "label": "Sudan"
+  },
+  {
+    "value": 1740,
+    "currency_id": 330,
+    "capital_tz_id": 119,
+    "iso2": "SR",
+    "iso3": "SUR",
+    "label": "Suriname"
+  },
+  {
+    "value": 1744,
+    "currency_id": 303,
+    "capital_tz_id": 127,
+    "iso2": "SJ",
+    "iso3": "SJM",
+    "label": "Svalbard and Jan Mayen"
+  },
+  {
+    "value": 1752,
+    "currency_id": 332,
+    "capital_tz_id": 127,
+    "iso2": "SE",
+    "iso3": "SWE",
+    "label": "Sweden"
+  },
+  {
+    "value": 1756,
+    "currency_id": 333,
+    "capital_tz_id": 127,
+    "iso2": "CH",
+    "iso3": "CHE",
+    "label": "Switzerland"
+  },
+  {
+    "value": 1760,
+    "currency_id": 334,
+    "capital_tz_id": 129,
+    "iso2": "SY",
+    "iso3": "SYR",
+    "label": "Syria"
+  },
+  {
+    "value": 1158,
+    "currency_id": 298,
+    "capital_tz_id": 142,
+    "iso2": "TW",
+    "iso3": "TWN",
+    "label": "Taiwan"
+  },
+  {
+    "value": 1762,
+    "currency_id": 335,
+    "capital_tz_id": 135,
+    "iso2": "TJ",
+    "iso3": "TJK",
+    "label": "Tajikistan"
+  },
+  {
+    "value": 1834,
+    "currency_id": 336,
+    "capital_tz_id": 131,
+    "iso2": "TZ",
+    "iso3": "TZA",
+    "label": "Tanzania"
+  },
+  {
+    "value": 1764,
+    "currency_id": 337,
+    "capital_tz_id": 140,
+    "iso2": "TH",
+    "iso3": "THA",
+    "label": "Thailand"
+  },
+  {
+    "value": 1626,
+    "currency_id": 345,
+    "capital_tz_id": 145,
+    "iso2": "TL",
+    "iso3": "TLS",
+    "label": "Timor Leste"
+  },
+  {
+    "value": 1768,
+    "currency_id": 351,
+    "capital_tz_id": 125,
+    "iso2": "TG",
+    "iso3": "TGO",
+    "label": "Togo"
+  },
+  {
+    "value": 1772,
+    "currency_id": 299,
+    "capital_tz_id": 155,
+    "iso2": "TK",
+    "iso3": "TKL",
+    "label": "Tokelau"
+  },
+  {
+    "value": 1776,
+    "currency_id": 338,
+    "capital_tz_id": 155,
+    "iso2": "TO",
+    "iso3": "TON",
+    "label": "Tonga"
+  },
+  {
+    "value": 1780,
+    "currency_id": 339,
+    "capital_tz_id": 117,
+    "iso2": "TT",
+    "iso3": "TTO",
+    "label": "Trinidad and Tobago"
+  },
+  {
+    "value": 1788,
+    "currency_id": 340,
+    "capital_tz_id": 127,
+    "iso2": "TN",
+    "iso3": "TUN",
+    "label": "Tunisia"
+  },
+  {
+    "value": 1792,
+    "currency_id": 341,
+    "capital_tz_id": 131,
+    "iso2": "TR",
+    "iso3": "TUR",
+    "label": "Turkey"
+  },
+  {
+    "value": 1795,
+    "currency_id": 342,
+    "capital_tz_id": 135,
+    "iso2": "TM",
+    "iso3": "TKM",
+    "label": "Turkmenistan"
+  },
+  {
+    "value": 1796,
+    "currency_id": 345,
+    "capital_tz_id": 117,
+    "iso2": "TC",
+    "iso3": "TCA",
+    "label": "Turks and Caicos Islands"
+  },
+  {
+    "value": 1798,
+    "currency_id": 209,
+    "capital_tz_id": 152,
+    "iso2": "TV",
+    "iso3": "TUV",
+    "label": "Tuvalu"
+  },
+  {
+    "value": 1800,
+    "currency_id": 343,
+    "capital_tz_id": 131,
+    "iso2": "UG",
+    "iso3": "UGA",
+    "label": "Uganda"
+  },
+  {
+    "value": 1804,
+    "currency_id": 344,
+    "capital_tz_id": 129,
+    "iso2": "UA",
+    "iso3": "UKR",
+    "label": "Ukraine"
+  },
+  {
+    "value": 1784,
+    "currency_id": 205,
+    "capital_tz_id": 133,
+    "iso2": "AE",
+    "iso3": "UAE/ARE",
+    "label": "United Arab Emirates"
+  },
+  {
+    "value": 1826,
+    "currency_id": 222,
+    "capital_tz_id": 125,
+    "iso2": "GB",
+    "iso3": "UK/GBR",
+    "label": "United Kingdom"
+  },
+  {
+    "value": 1840,
+    "currency_id": 345,
+    "capital_tz_id": 115,
+    "iso2": "US",
+    "iso3": "USA",
+    "label": "United States"
+  },
+  {
+    "value": 1858,
+    "currency_id": 346,
+    "capital_tz_id": 119,
+    "iso2": "UY",
+    "iso3": "URY",
+    "label": "Uruguay"
+  },
+  {
+    "value": 1860,
+    "currency_id": 347,
+    "capital_tz_id": 135,
+    "iso2": "UZ",
+    "iso3": "UZB",
+    "label": "Uzbekistan"
+  },
+  {
+    "value": 1548,
+    "currency_id": 348,
+    "capital_tz_id": 150,
+    "iso2": "VU",
+    "iso3": "VUT",
+    "label": "Vanuatu"
+  },
+  {
+    "value": 1336,
+    "currency_id": 249,
+    "capital_tz_id": 127,
+    "iso2": "VA",
+    "iso3": "VAT",
+    "label": "Vatican (Holy See)"
+  },
+  {
+    "value": 1862,
+    "currency_id": 349,
+    "capital_tz_id": 117,
+    "iso2": "VE",
+    "iso3": "VEN",
+    "label": "Venezuela"
+  },
+  {
+    "value": 1704,
+    "currency_id": 350,
+    "capital_tz_id": 140,
+    "iso2": "VN",
+    "iso3": "VNM",
+    "label": "Vietnam"
+  },
+  {
+    "value": 1092,
+    "currency_id": 345,
+    "capital_tz_id": 117,
+    "iso2": "VG",
+    "iso3": "VGB",
+    "label": "Virgin Islands (British)"
+  },
+  {
+    "value": 1850,
+    "currency_id": 345,
+    "capital_tz_id": 117,
+    "iso2": "VI",
+    "iso3": "VIR",
+    "label": "Virgin Islands (of US)"
+  },
+  {
+    "value": 1876,
+    "currency_id": 232,
+    "capital_tz_id": 152,
+    "iso2": "WF",
+    "iso3": "WLF",
+    "label": "Wallis and Futuna"
+  },
+  {
+    "value": 1732,
+    "currency_id": 293,
+    "capital_tz_id": 125,
+    "iso2": "EH",
+    "iso3": "ESH",
+    "label": "Western Sahara"
+  },
+  {
+    "value": 1887,
+    "currency_id": 352,
+    "capital_tz_id": 131,
+    "iso2": "YE",
+    "iso3": "YEM",
+    "label": "Yemen"
+  },
+  {
+    "value": 1894,
+    "currency_id": 353,
+    "capital_tz_id": 129,
+    "iso2": "ZM",
+    "iso3": "ZMB",
+    "label": "Zambia"
+  },
+  {
+    "value": 1716,
+    "currency_id": 345,
+    "capital_tz_id": 129,
+    "iso2": "ZW",
+    "iso3": "ZWE",
+    "label": "Zimbabwe"
+  }
+]

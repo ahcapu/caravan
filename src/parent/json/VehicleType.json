@@ -1,0 +1,42 @@
+[
+  {
+    "value": 1,
+    "label": "Truck"
+  },
+  {
+    "value": 2,
+    "label": "Medium Truck"
+  },
+  {
+    "value": 3,
+    "label": "Mini Truck "
+  },
+  {
+    "value": 4,
+    "label": "Tractor"
+  },
+  {
+    "value": 5,
+    "label": "Three Wheeler"
+  },
+  {
+    "value": 6,
+    "label": "Two Wheeler"
+  },
+  {
+    "value": 7,
+    "label": "Bus"
+  },
+  {
+    "value": 8,
+    "label": "Car"
+  },
+  {
+    "value": 9,
+    "label": "Van"
+  },
+  {
+    "value": 10,
+    "label": "Equipment*"
+  }
+]

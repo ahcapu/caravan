@@ -1,0 +1,408 @@
+[
+  {
+    "value": 101,
+    "label": "GMT-12:00",
+    "tz_utc": "UTC-12:00",
+    "tz_dec": -12,
+    "tz_id_if_dst": 103
+  },
+  {
+    "value": 102,
+    "label": "GMT-11:30",
+    "tz_utc": "UTC-11:30",
+    "tz_dec": -11.5,
+    "tz_id_if_dst": 104
+  },
+  {
+    "value": 103,
+    "label": "GMT-11:00",
+    "tz_utc": "UTC-11:00",
+    "tz_dec": -11,
+    "tz_id_if_dst": 105
+  },
+  {
+    "value": 104,
+    "label": "GMT-10:30",
+    "tz_utc": "UTC-10:30",
+    "tz_dec": -10.5,
+    "tz_id_if_dst": 106
+  },
+  {
+    "value": 105,
+    "label": "GMT-10:00",
+    "tz_utc": "UTC-10:00",
+    "tz_dec": -10,
+    "tz_id_if_dst": 107
+  },
+  {
+    "value": 106,
+    "label": "GMT-09:30",
+    "tz_utc": "UTC-09:30",
+    "tz_dec": -9.5,
+    "tz_id_if_dst": 108
+  },
+  {
+    "value": 107,
+    "label": "GMT-09:00",
+    "tz_utc": "UTC-09:00",
+    "tz_dec": -9,
+    "tz_id_if_dst": 109
+  },
+  {
+    "value": 108,
+    "label": "GMT-08:30",
+    "tz_utc": "UTC-08:30",
+    "tz_dec": -8.5,
+    "tz_id_if_dst": 110
+  },
+  {
+    "value": 109,
+    "label": "GMT-08:00",
+    "tz_utc": "UTC-08:00",
+    "tz_dec": -8,
+    "tz_id_if_dst": 111
+  },
+  {
+    "value": 110,
+    "label": "GMT-07:30",
+    "tz_utc": "UTC-07:30",
+    "tz_dec": -7.5,
+    "tz_id_if_dst": 112
+  },
+  {
+    "value": 111,
+    "label": "GMT-07:00",
+    "tz_utc": "UTC-07:00",
+    "tz_dec": -7,
+    "tz_id_if_dst": 113
+  },
+  {
+    "value": 112,
+    "label": "GMT-06:30",
+    "tz_utc": "UTC-06:30",
+    "tz_dec": -6.5,
+    "tz_id_if_dst": 114
+  },
+  {
+    "value": 113,
+    "label": "GMT-06:00",
+    "tz_utc": "UTC-06:00",
+    "tz_dec": -6,
+    "tz_id_if_dst": 115
+  },
+  {
+    "value": 114,
+    "label": "GMT-05:30",
+    "tz_utc": "UTC-05:30",
+    "tz_dec": -5.5,
+    "tz_id_if_dst": 116
+  },
+  {
+    "value": 115,
+    "label": "GMT-05:00",
+    "tz_utc": "UTC-05:00",
+    "tz_dec": -5,
+    "tz_id_if_dst": 117
+  },
+  {
+    "value": 116,
+    "label": "GMT-04:30",
+    "tz_utc": "UTC-04:30",
+    "tz_dec": -4.5,
+    "tz_id_if_dst": 118
+  },
+  {
+    "value": 117,
+    "label": "GMT-04:00",
+    "tz_utc": "UTC-04:00",
+    "tz_dec": -4,
+    "tz_id_if_dst": 119
+  },
+  {
+    "value": 118,
+    "label": "GMT-03:30",
+    "tz_utc": "UTC-03:30",
+    "tz_dec": -3.5,
+    "tz_id_if_dst": 120
+  },
+  {
+    "value": 119,
+    "label": "GMT-03:00",
+    "tz_utc": "UTC-03:00",
+    "tz_dec": -3,
+    "tz_id_if_dst": 121
+  },
+  {
+    "value": 120,
+    "label": "GMT-02:30",
+    "tz_utc": "UTC-02:30",
+    "tz_dec": -2.5,
+    "tz_id_if_dst": 122
+  },
+  {
+    "value": 121,
+    "label": "GMT-02:00",
+    "tz_utc": "UTC-02:00",
+    "tz_dec": -2,
+    "tz_id_if_dst": 123
+  },
+  {
+    "value": 122,
+    "label": "GMT-01:30",
+    "tz_utc": "UTC-01:30",
+    "tz_dec": -1.5,
+    "tz_id_if_dst": 124
+  },
+  {
+    "value": 123,
+    "label": "GMT-01:00",
+    "tz_utc": "UTC-01:00",
+    "tz_dec": -1,
+    "tz_id_if_dst": 125
+  },
+  {
+    "value": 124,
+    "label": "GMT-00:30",
+    "tz_utc": "UTC-00:30",
+    "tz_dec": -0.5,
+    "tz_id_if_dst": 126
+  },
+  {
+    "value": 125,
+    "label": "GMT 00:00",
+    "tz_utc": "UTC 00:00",
+    "tz_dec": 0,
+    "tz_id_if_dst": 127
+  },
+  {
+    "value": 126,
+    "label": "GMT+00:30",
+    "tz_utc": "UTC+00:30",
+    "tz_dec": 0.5,
+    "tz_id_if_dst": 128
+  },
+  {
+    "value": 127,
+    "label": "GMT+01:00",
+    "tz_utc": "UTC+01:00",
+    "tz_dec": 1,
+    "tz_id_if_dst": 129
+  },
+  {
+    "value": 128,
+    "label": "GMT+01:30",
+    "tz_utc": "UTC+01:30",
+    "tz_dec": 1.5,
+    "tz_id_if_dst": 130
+  },
+  {
+    "value": 129,
+    "label": "GMT+02:00",
+    "tz_utc": "UTC+02:00",
+    "tz_dec": 2,
+    "tz_id_if_dst": 131
+  },
+  {
+    "value": 130,
+    "label": "GMT+02:30",
+    "tz_utc": "UTC+02:30",
+    "tz_dec": 2.5,
+    "tz_id_if_dst": 132
+  },
+  {
+    "value": 131,
+    "label": "GMT+03:00",
+    "tz_utc": "UTC+03:00",
+    "tz_dec": 3,
+    "tz_id_if_dst": 133
+  },
+  {
+    "value": 132,
+    "label": "GMT+03:30",
+    "tz_utc": "UTC+03:30",
+    "tz_dec": 3.5,
+    "tz_id_if_dst": 134
+  },
+  {
+    "value": 133,
+    "label": "GMT+04:00",
+    "tz_utc": "UTC+04:00",
+    "tz_dec": 4,
+    "tz_id_if_dst": 135
+  },
+  {
+    "value": 134,
+    "label": "GMT+04:30",
+    "tz_utc": "UTC+04:30",
+    "tz_dec": 4.5,
+    "tz_id_if_dst": 136
+  },
+  {
+    "value": 135,
+    "label": "GMT+05:00",
+    "tz_utc": "UTC+05:00",
+    "tz_dec": 5,
+    "tz_id_if_dst": 138
+  },
+  {
+    "value": 136,
+    "label": "GMT+05:30",
+    "tz_utc": "UTC+05:30",
+    "tz_dec": 5.5,
+    "tz_id_if_dst": 139
+  },
+  {
+    "value": 137,
+    "label": "GMT+05:45",
+    "tz_utc": "UTC+05:45",
+    "tz_dec": 5.75,
+    "tz_id_if_dst": 137
+  },
+  {
+    "value": 138,
+    "label": "GMT+06:00",
+    "tz_utc": "UTC+06:00",
+    "tz_dec": 6,
+    "tz_id_if_dst": 140
+  },
+  {
+    "value": 139,
+    "label": "GMT+06:30",
+    "tz_utc": "UTC+06:30",
+    "tz_dec": 6.5,
+    "tz_id_if_dst": 141
+  },
+  {
+    "value": 140,
+    "label": "GMT+07:00",
+    "tz_utc": "UTC+07:00",
+    "tz_dec": 7,
+    "tz_id_if_dst": 142
+  },
+  {
+    "value": 141,
+    "label": "GMT+07:30",
+    "tz_utc": "UTC+07:30",
+    "tz_dec": 7.5,
+    "tz_id_if_dst": 143
+  },
+  {
+    "value": 142,
+    "label": "GMT+08:00",
+    "tz_utc": "UTC+08:00",
+    "tz_dec": 8,
+    "tz_id_if_dst": 145
+  },
+  {
+    "value": 143,
+    "label": "GMT+08:30",
+    "tz_utc": "UTC+08:30",
+    "tz_dec": 8.5,
+    "tz_id_if_dst": 146
+  },
+  {
+    "value": 144,
+    "label": "GMT+08:45",
+    "tz_utc": "UTC+08:45",
+    "tz_dec": 8.75,
+    "tz_id_if_dst": 144
+  },
+  {
+    "value": 145,
+    "label": "GMT+09:00",
+    "tz_utc": "UTC+09:00",
+    "tz_dec": 9,
+    "tz_id_if_dst": 148
+  },
+  {
+    "value": 146,
+    "label": "GMT+09:30",
+    "tz_utc": "UTC+09:30",
+    "tz_dec": 9.5,
+    "tz_id_if_dst": 149
+  },
+  {
+    "value": 147,
+    "label": "GMT+09:45",
+    "tz_utc": "UTC+09:45",
+    "tz_dec": 9.75,
+    "tz_id_if_dst": 147
+  },
+  {
+    "value": 148,
+    "label": "GMT+10:00",
+    "tz_utc": "UTC+10:00",
+    "tz_dec": 10,
+    "tz_id_if_dst": 150
+  },
+  {
+    "value": 149,
+    "label": "GMT+10:30",
+    "tz_utc": "UTC+10:30",
+    "tz_dec": 10.5,
+    "tz_id_if_dst": 151
+  },
+  {
+    "value": 150,
+    "label": "GMT+11:00",
+    "tz_utc": "UTC+11:00",
+    "tz_dec": 11,
+    "tz_id_if_dst": 152
+  },
+  {
+    "value": 151,
+    "label": "GMT+11:30",
+    "tz_utc": "UTC+11:30",
+    "tz_dec": 11.5,
+    "tz_id_if_dst": 153
+  },
+  {
+    "value": 152,
+    "label": "GMT+12:00",
+    "tz_utc": "UTC+12:00",
+    "tz_dec": 12,
+    "tz_id_if_dst": 155
+  },
+  {
+    "value": 153,
+    "label": "GMT+12:30",
+    "tz_utc": "UTC+12:30",
+    "tz_dec": 12.5,
+    "tz_id_if_dst": 156
+  },
+  {
+    "value": 154,
+    "label": "GMT+12:45",
+    "tz_utc": "UTC+12:45",
+    "tz_dec": 12.75,
+    "tz_id_if_dst": 154
+  },
+  {
+    "value": 155,
+    "label": "GMT+13:00",
+    "tz_utc": "UTC+13:00",
+    "tz_dec": 13,
+    "tz_id_if_dst": 158
+  },
+  {
+    "value": 156,
+    "label": "GMT+13:30",
+    "tz_utc": "UTC+13:30",
+    "tz_dec": 13.5,
+    "tz_id_if_dst": 156
+  },
+  {
+    "value": 157,
+    "label": "GMT+13:45",
+    "tz_utc": "UTC+13:45",
+    "tz_dec": 13.75,
+    "tz_id_if_dst": 157
+  },
+  {
+    "value": 158,
+    "label": "GMT+14:00",
+    "tz_utc": "UTC+14:00",
+    "tz_dec": 14,
+    "tz_id_if_dst": 158
+  }
+]

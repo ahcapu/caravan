@@ -1,0 +1,58 @@
+[
+  {
+    "value": 1,
+    "label": "bags"
+  },
+  {
+    "value": 2,
+    "label": "boxes"
+  },
+  {
+    "value": 3,
+    "label": "bushel"
+  },
+  {
+    "value": 4,
+    "label": "cartons"
+  },
+  {
+    "value": 5,
+    "label": "crates"
+  },
+  {
+    "value": 6,
+    "label": "drums"
+  },
+  {
+    "value": 7,
+    "label": "gallons"
+  },
+  {
+    "value": 8,
+    "label": "items"
+  },
+  {
+    "value": 9,
+    "label": "packets"
+  },
+  {
+    "value": 10,
+    "label": "pallets"
+  },
+  {
+    "value": 11,
+    "label": "parcels"
+  },
+  {
+    "value": 12,
+    "label": "rolls"
+  },
+  {
+    "value": 13,
+    "label": "trays"
+  },
+  {
+    "value": 14,
+    "label": "units"
+  }
+]

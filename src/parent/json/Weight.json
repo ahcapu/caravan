@@ -1,0 +1,30 @@
+[
+  {
+    "value": 1,
+    "label": "kg"
+  },
+  {
+    "value": 2,
+    "label": "metric ton"
+  },
+  {
+    "value": 3,
+    "label": "ounce"
+  },
+  {
+    "value": 4,
+    "label": "pound"
+  },
+  {
+    "value": 5,
+    "label": "ton"
+  },
+  {
+    "value": 6,
+    "label": "UK ton"
+  },
+  {
+    "value": 7,
+    "label": "US ton"
+  }
+]

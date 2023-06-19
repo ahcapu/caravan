@@ -1,0 +1,152 @@
+[
+  {
+    "ref_code": 101,
+    "acc_type": "Income",
+    "acc_name": "Services Sold"
+  },
+  {
+    "ref_code": 102,
+    "acc_type": "Income",
+    "acc_name": "Commission"
+  },
+  {
+    "ref_code": 103,
+    "acc_type": "Income",
+    "acc_name": "Interest"
+  },
+  {
+    "ref_code": 104,
+    "acc_type": "Income",
+    "acc_name": "Vehicle"
+  },
+  {
+    "ref_code": 105,
+    "acc_type": "Income",
+    "acc_name": "Other"
+  },
+  {
+    "ref_code": 201,
+    "acc_type": "Expense",
+    "acc_name": "Services Purchased"
+  },
+  {
+    "ref_code": 202,
+    "acc_type": "Expense",
+    "acc_name": "Payroll Salary"
+  },
+  {
+    "ref_code": 203,
+    "acc_type": "Expense",
+    "acc_name": "Rent"
+  },
+  {
+    "ref_code": 204,
+    "acc_type": "Expense",
+    "acc_name": "Utility & Misc."
+  },
+  {
+    "ref_code": 205,
+    "acc_type": "Expense",
+    "acc_name": "Vehicle"
+  },
+  {
+    "ref_code": 301,
+    "acc_type": "Asset",
+    "acc_name": "AR - A/c Receivable"
+  },
+  {
+    "ref_code": 302,
+    "acc_type": "Asset",
+    "acc_name": "Cash & Stock"
+  },
+  {
+    "ref_code": 303,
+    "acc_type": "Asset",
+    "acc_name": "Bank Account-1"
+  },
+  {
+    "ref_code": 304,
+    "acc_type": "Asset",
+    "acc_name": "Equipment"
+  },
+  {
+    "ref_code": 305,
+    "acc_type": "Asset",
+    "acc_name": "Vehicles"
+  },
+  {
+    "ref_code": 401,
+    "acc_type": "Liability",
+    "acc_name": "AP - A/c Payable"
+  },
+  {
+    "ref_code": 402,
+    "acc_type": "Liability",
+    "acc_name": "Credit Cards"
+  },
+  {
+    "ref_code": 403,
+    "acc_type": "Liability",
+    "acc_name": "Loan & Mortgage"
+  },
+  {
+    "ref_code": 404,
+    "acc_type": "Liability",
+    "acc_name": "Overdraft"
+  },
+  {
+    "ref_code": 405,
+    "acc_type": "Liability",
+    "acc_name": "Tax Payable"
+  },
+  {
+    "ref_code": 501,
+    "acc_type": "Equity",
+    "acc_name": "Capital"
+  },
+  {
+    "ref_code": 502,
+    "acc_type": "Equity",
+    "acc_name": "Common Stock"
+  },
+  {
+    "ref_code": 503,
+    "acc_type": "Equity",
+    "acc_name": "Drawings"
+  },
+  {
+    "ref_code": 504,
+    "acc_type": "Equity",
+    "acc_name": "Retained Earning"
+  },
+  {
+    "ref_code": 505,
+    "acc_type": "Equity",
+    "acc_name": "Treasury Stock"
+  },
+  {
+    "ref_code": 601,
+    "acc_type": "Cost of Sales",
+    "acc_name": "Transport Costs"
+  },
+  {
+    "ref_code": 602,
+    "acc_type": "Cost of Sales",
+    "acc_name": "Materials Purchased"
+  },
+  {
+    "ref_code": 603,
+    "acc_type": "Cost of Sales",
+    "acc_name": "Labour Cost"
+  },
+  {
+    "ref_code": 604,
+    "acc_type": "Cost of Sales",
+    "acc_name": "Packaging Cost"
+  },
+  {
+    "ref_code": 605,
+    "acc_type": "Cost of Sales",
+    "acc_name": "Discounts Received"
+  }
+]
