@@ -10,6 +10,10 @@ import { PaymentMode } from "../../Utils/Enum";
 
 export class BiltyCostDto {
   @IsNotEmpty()
+  @IsNumber()
+  bilty_id: number;
+
+  @IsNotEmpty()
   @IsString()
   cost_head: string;
 
@@ -28,6 +32,10 @@ export class BiltyCostDto {
   @IsNotEmpty()
   @IsNumber()
   cost_reference: number; // Account type coa
+
+  @IsNotEmpty()
+  @IsNumber()
+  cost_currency: number; // Currency
 
   @IsNotEmpty()
   @IsNumber()

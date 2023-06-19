@@ -4,6 +4,8 @@ import { PaymentMode } from "../../Utils/Enum";
 
 @Entity({ name: "bilty_costs" })
 export class BiltyCost extends RegularPrimaryKey {
+  @Column({ nullable: true, type: "bigint" })
+  bilty_id: number;
   @Column({ nullable: true, type: "varchar" })
   cost_head: string;
 
@@ -18,6 +20,9 @@ export class BiltyCost extends RegularPrimaryKey {
 
   @Column({ nullable: true, type: "int" })
   cost_reference: number; // Account type coa
+
+  @Column({ nullable: true, type: "int" })
+  cost_currency: number; // Currency
 
   @Column({ nullable: true, type: "numeric" })
   cost_amount: number;

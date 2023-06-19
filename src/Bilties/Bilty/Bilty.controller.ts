@@ -9,6 +9,9 @@ import { AppDataSource } from "../../server";
 import { CreateBiltyDetailDto } from "../BiltyDetail/BiltyDetail-create.dto";
 import { BiltyDetailService } from "../BiltyDetail/BiltyDetail.service";
 import { BiltyDetail } from "../BiltyDetail/BiltyDetail.entity";
+import { CreateBiltyCostDto } from "../BiltyCost/BiltyCost-create";
+import { BiltyCostService } from "../BiltyCost/BiltyCost.service";
+import { BiltyCost } from "../BiltyCost/BiltyCost.entity";
 
 export class BiltyController {
   private static biltyRepo = AppDataSource.getRepository(Bilty);
@@ -21,14 +24,14 @@ export class BiltyController {
       if (!(bilty_result instanceof Bilty)) {
         return res.status(400).json({ status: 400, error: bilty_result });
       }
-      
+
       let contact_data: CreateContactDto = req.body.contact;
       contact_data.created_by = Number(user);
       contact_data.consignment_id = bilty_result.consignment_id;
       const contact_result = await ContactService.add(contact_data);
       if (!(contact_result instanceof Contact)) {
         console.log(contact_result);
-        
+
         await this.biltyRepo.delete({ id: bilty_result.id });
         return res.status(400).json({ status: 400, error: contact_result });
       }
@@ -44,6 +47,20 @@ export class BiltyController {
           return res
             .status(400)
             .json({ status: 400, error: bilty_detail_result });
+        }
+      }
+
+      for (let i = 0; i < req.body.bilty_costs.length; i++) {
+        const bilty_cost: CreateBiltyCostDto = req.body.bilty_costs[i];
+        bilty_cost.created_by = Number(user);
+        bilty_cost.bilty_id = bilty_result.id;
+
+        const bilty_cost_result = await BiltyCostService.add(bilty_cost);
+        if (!(bilty_cost_result instanceof BiltyCost)) {
+          await this.biltyRepo.delete({ id: bilty_result.id });
+          return res
+            .status(400)
+            .json({ status: 400, error: bilty_cost_result });
         }
       }
       return res.status(201).json({ status: 201, data: "response" });
