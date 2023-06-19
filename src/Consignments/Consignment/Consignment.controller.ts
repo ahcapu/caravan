@@ -2,13 +2,13 @@ import { Request, Response } from "express";
 import { ConsignmentService } from "./Consignment.service";
 import { CreateConsignmentDto } from "./Consignment-create.dto";
 import { Consignment } from "./Consignment.entity";
-import { CreateContactDto } from "../Contact/Contact-create.dto";
-import { ContactService } from "../Contact/Contact.service";
-import { Contact } from "../Contact/Contact.entity";
-import { AppDataSource } from "../server";
 import { CreateContainerDto } from "../Container/Container-create.dto";
 import { ContainerService } from "../Container/Container.service";
 import { Container } from "../Container/Container.entity";
+import { AppDataSource } from "../../server";
+import { CreateContactDto } from "../../Contact/Contact-create.dto";
+import { ContactService } from "../../Contact/Contact.service";
+import { Contact } from "../../Contact/Contact.entity";
 
 export class ConsignmentController {
   private static consignmentRepo = AppDataSource.getRepository(Consignment);

@@ -6,7 +6,7 @@ import { CreateContactDto } from "./Contact-create.dto";
 import { Contact } from "./Contact.entity";
 import { Country } from "../parent/Country.entity";
 import { City } from "../parent/City.entity";
-import { Consignment } from "../Consignment/Consignment.entity";
+import { Consignment } from "../Consignments/Consignment/Consignment.entity";
 
 export class ContactService {
   private static consigmentRepo = AppDataSource.getRepository(Consignment);

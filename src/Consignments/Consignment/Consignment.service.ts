@@ -1,15 +1,16 @@
 import { plainToClass } from "class-transformer";
-import { ErrorHandling } from "../Utils/ErrorHandling";
-import { City } from "../parent/City.entity";
-import { Country } from "../parent/Country.entity";
-import { AppDataSource } from "../server";
 import { CreateConsignmentDto } from "./Consignment-create.dto";
 import { Consignment } from "./Consignment.entity";
-import { CaravanFactory } from "../Utils/CaravanFectory";
-import { ItemType } from "../parent/ItemType.entity";
-import { Weight } from "../parent/Weight.entity";
-import { Size } from "../parent/Size.entity";
-import { ContainerSize } from "../parent/ContainerSize.entity";
+import { AppDataSource } from "../../server";
+import { Country } from "../../parent/Country.entity";
+import { City } from "../../parent/City.entity";
+import { ItemType } from "../../parent/ItemType.entity";
+import { Weight } from "../../parent/Weight.entity";
+import { ContainerSize } from "../../parent/ContainerSize.entity";
+import { CaravanFactory } from "../../Utils/CaravanFectory";
+import { ErrorHandling } from "../../Utils/ErrorHandling";
+
+
 
 export class ConsignmentService {
   private static consignmentRepo = AppDataSource.getRepository(Consignment);

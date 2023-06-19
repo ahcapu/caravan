@@ -2,7 +2,7 @@ import { Application } from "express";
 
 import admin from "./Backoffice/Admin/admin.route";
 import parent from './parent/parent.route';
-import consignment from './Consignment/consignment.route';
+import consignment from './Consignments/Consignment/consignment.route';
 import bilty from './Bilties/Bilty/Bilty.route';
 
 export const setup = (app: Application) => {

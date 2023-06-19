@@ -1,5 +1,5 @@
 import { Column, Entity } from "typeorm";
-import { ManualIntegerPrimaryKey } from "../BaseDatabaseKey/ManualIntegerPrimaryKey";
+import { ManualIntegerPrimaryKey } from "../../BaseDatabaseKey/ManualIntegerPrimaryKey";
 
 @Entity({ name: "consignments" })
 export class Consignment extends ManualIntegerPrimaryKey {

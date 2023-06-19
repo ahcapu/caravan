@@ -1,6 +1,6 @@
 import { Column, Entity } from "typeorm";
-import { ManualIntegerPrimaryKey } from "../BaseDatabaseKey/ManualIntegerPrimaryKey";
-import { Status } from "../parent/Status.entity";
+import { ManualIntegerPrimaryKey } from "../../BaseDatabaseKey/ManualIntegerPrimaryKey";
+import { Status } from "../../parent/Status.entity";
 
 @Entity({ name: "containers" })
 export class Container extends ManualIntegerPrimaryKey {
@@ -28,6 +28,6 @@ export class Container extends ManualIntegerPrimaryKey {
   @Column({ nullable: true, type: "integer" })
   load_weight_id: number;
 
-  @Column({ nullable: true, type: 'integer' })
+  @Column({ nullable: true, type: "integer" })
   container_status: Status;
 }
