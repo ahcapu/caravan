@@ -12,6 +12,9 @@ import { BiltyDetail } from "../BiltyDetail/BiltyDetail.entity";
 import { CreateBiltyCostDto } from "../BiltyCost/BiltyCost-create";
 import { BiltyCostService } from "../BiltyCost/BiltyCost.service";
 import { BiltyCost } from "../BiltyCost/BiltyCost.entity";
+import { CreateBiltyBrokerFreightDto } from "../BiltyBrokerFreight/BiltyBrokerFreight-create";
+import { BiltyBrokerFreightService } from "../BiltyBrokerFreight/BiltyBrokerFreight.service";
+import { BiltyBrokerFreight } from "../BiltyBrokerFreight/BiltyBrokerFreight.entity";
 
 export class BiltyController {
   private static biltyRepo = AppDataSource.getRepository(Bilty);
@@ -61,6 +64,20 @@ export class BiltyController {
           return res
             .status(400)
             .json({ status: 400, error: bilty_cost_result });
+        }
+      }
+
+      for (let i = 0; i < req.body.bilty_brokers.length; i++) {
+        const bilty_broker: CreateBiltyBrokerFreightDto = req.body.bilty_brokers[i];
+        bilty_broker.created_by = Number(user);
+        bilty_broker.bilty_id = bilty_result.id;
+
+        const bilty_broker_result = await BiltyBrokerFreightService.add(bilty_broker);
+        if (!(bilty_broker_result instanceof BiltyBrokerFreight)) {
+          await this.biltyRepo.delete({ id: bilty_result.id });
+          return res
+            .status(400)
+            .json({ status: 400, error: bilty_broker_result });
         }
       }
       return res.status(201).json({ status: 201, data: "response" });
